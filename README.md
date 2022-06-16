@@ -1,15 +1,17 @@
 # Who
-I'm Gavin. I've been a professional web developer for over a decande.
+I'm Gavin. I've been a professional web developer for over a decade.
 
 # What
-I started with MS JScript so I've been exposed to all sorts of JS environments and frameworks (for better or worse). 
+Mostly back end API integrations / development and in-house tooling.
 
-These days my professional roles are mostly back-end PHP. Generally internal tools and exposing/consuming APIs though I have experience through the stack (particularly AWS infrastructure) and DBA.
+Usually in PHP (5.3🤢, 7+🙂, 8+😃, Vanilla & Laravel) but a good working knowledge of Javascript (React, React-Native, Svelte, Node, Electron, Browser based ECMA6 & older) and some hands on with Python.
 
-Though I'm no stranger to 'vanilla' OOP and functional PHP I mostly use Laravel as a framework at my last few roles. 
+Good experience of SQL & Postgres, some experience of nosql and redis. Both ORM and raw queries extensively.
+
+Some experience of server management through AWS and Redhat / Debian machine configuration and admin.
 
 # Why
-I'm interested in more moden Javascript framework roles these days so I'm trying to build up experience in them. Rect Native, Vue, Svelte (Svelte is lovely please try it) etc.
+I'm interested in more moden Javascript framework roles these days so I'm trying to build up experience in them. React, React-Native, Vue, Svelte etc.
 
 # Where
-I'm based in South West London but have had fully remote roles since 2016 so the post-pandemic job landscape was an easy transition for me thankfully.
+I'm based in South West London but have had fully remote roles since 2016 and as such have no problems working from home.
